@@ -161,7 +161,7 @@ body{
     color: #fca61f;
 }
 .expertise a:hover{
-    color: #6f34fe;
+    color: #716198;
 }
 .expertise .service-card{
     text-align: center;
@@ -273,13 +273,13 @@ body{
     background-color: #fff;
 }
 .prev:hover,.prev-btn:hover{
-    color:#6f34fe;
+    color:#716198;
     transform: translateX(-10px);
     transition-duration: 1s;
 }
 .next:hover,.next-btn:hover{
-    color:#6f34fe;
-    transform: translateX(10px);
+     color: #716198;
+     transform: translateX(10px);
     transition-duration: 1s;
 }
 
@@ -391,10 +391,10 @@ footer .link-group a:hover{
     background-color: #f33a7e;
 }
 .social-links .whatsapp{
-    color: #25D366;
+    color: white;
 }
 .social-links .whatsapp:hover{
-    background-color: #25D366;
+    background-color: #716198;
 }
 .social-links .behance{
     color: #255afc;
@@ -430,7 +430,7 @@ footer .link-group a:hover{
 }
 
 .social-links a:hover {
-  background-color: #6f34fe;
+  background-color: #716198;
   transform: translateY(-5px);
 }
 
